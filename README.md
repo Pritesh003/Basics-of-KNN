@@ -1,6 +1,6 @@
-# Basics-of-KNN
+### Basics-of-KNN
 This is a very basic yet interesting example of clustering using KNN.
-# There are two notebooks for KNN:
+### There are two notebooks for KNN:
 
  - One uses only 6 data points, each point represents a country's geographical coordinates and then clustering is done using KNN (using different number of clusters).
 
